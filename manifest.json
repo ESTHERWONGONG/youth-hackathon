@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "kdf": "PBKDF2",
+  "hash": "SHA-256",
+  "iterations": 600000,
+  "salt": "FbQSlYmDNmkZRh5YBI1dJg==",
+  "payload": {
+    "file": "payload.bin",
+    "iv": "BwDIwLlv0+04tczq"
+  }
+}
