@@ -3,9 +3,9 @@
   "kdf": "PBKDF2",
   "hash": "SHA-256",
   "iterations": 600000,
-  "salt": "FbQSlYmDNmkZRh5YBI1dJg==",
+  "salt": "2k4HwWkr2g5dBq7gDhDo6Q==",
   "payload": {
     "file": "payload.bin",
-    "iv": "BwDIwLlv0+04tczq"
+    "iv": "Dy1TOg+VQ2FTjVBg"
   }
 }
